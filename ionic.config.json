@@ -1,0 +1,8 @@
+{
+  "name": "LABO02",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "089c4096"
+}
